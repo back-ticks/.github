@@ -4,4 +4,4 @@
 
 **introduction:**
 
-🙋‍♀️ Backticks - a group of five software developers and designers based in Rwanda.
+🙋‍♀️ Backticks - Rwanda based software development Team
